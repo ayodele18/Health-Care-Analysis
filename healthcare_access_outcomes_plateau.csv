@@ -1,0 +1,1001 @@
+ID,LGA,Gender,Age Group,Disease,Visited Health Facility,Type of Facility,Received Immunization,Maternal Mortality,Child Mortality,Year
+1,Wase,Female,0-5,Pneumonia,0,Private Clinic,1,0,1,2020
+2,Langtang North,Female,16-30,Diarrhea,1,Private Clinic,1,0,0,2021
+3,Mangu,Female,31-50,Diarrhea,1,Private Clinic,1,0,0,2020
+4,Mikang,Male,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2023
+5,Wase,Female,51+,Diarrhea,0,Mobile Clinic,1,0,0,2020
+6,Mangu,Male,31-50,Diarrhea,1,Public Hospital,0,0,0,2021
+7,Mangu,Female,16-30,Measles,1,Mobile Clinic,0,0,0,2023
+8,Riyom,Female,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2021
+9,Mikang,Male,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2023
+10,Barkin Ladi,Female,51+,Cholera,1,Private Clinic,1,1,0,2022
+11,Jos South,Male,0-5,Cholera,1,Community Health Center,1,0,0,2022
+12,Bokkos,Male,16-30,Pneumonia,0,Public Hospital,1,0,0,2022
+13,Shendam,Female,51+,Malaria,1,Community Health Center,1,0,0,2021
+14,Jos South,Male,16-30,Malaria,0,Community Health Center,1,0,0,2021
+15,Jos North,Male,0-5,Malaria,1,Mobile Clinic,0,0,0,2023
+16,Bokkos,Female,0-5,Cholera,0,Public Hospital,1,0,0,2023
+17,Bokkos,Male,51+,Malaria,1,Community Health Center,0,0,0,2023
+18,Kanke,Male,0-5,Measles,1,Community Health Center,0,0,0,2023
+19,Jos East,Male,31-50,Diarrhea,1,Public Hospital,1,0,0,2020
+20,Langtang South,Female,6-15,Cholera,0,Mobile Clinic,1,0,0,2022
+21,Langtang North,Male,51+,Pneumonia,1,Community Health Center,0,0,0,2020
+22,Langtang North,Female,16-30,Pneumonia,1,Private Clinic,0,1,0,2020
+23,Bokkos,Female,31-50,Diarrhea,1,Community Health Center,0,0,0,2020
+24,Barkin Ladi,Male,51+,Cholera,1,Private Clinic,1,0,0,2020
+25,Bassa,Male,0-5,Malaria,1,Mobile Clinic,0,0,0,2022
+26,Wase,Male,0-5,Malaria,1,Community Health Center,0,0,0,2020
+27,Riyom,Female,0-5,Measles,1,Public Hospital,1,0,0,2023
+28,Wase,Male,0-5,Measles,1,Public Hospital,1,0,0,2021
+29,Riyom,Male,16-30,Malaria,1,Community Health Center,1,0,0,2023
+30,Mikang,Male,31-50,Pneumonia,1,Mobile Clinic,0,0,0,2021
+31,Riyom,Male,6-15,Pneumonia,0,Mobile Clinic,1,0,1,2023
+32,Jos South,Male,16-30,Measles,0,Public Hospital,1,0,0,2023
+33,Langtang North,Female,16-30,Diarrhea,0,Community Health Center,1,0,0,2021
+34,Wase,Female,6-15,Malaria,1,Mobile Clinic,1,0,0,2022
+35,Bokkos,Male,6-15,Measles,1,Public Hospital,1,0,1,2020
+36,Mikang,Male,0-5,Measles,1,Private Clinic,0,0,0,2023
+37,Langtang North,Male,16-30,Malaria,1,Community Health Center,1,0,0,2022
+38,Barkin Ladi,Male,51+,Malaria,0,Private Clinic,1,0,1,2020
+39,Mikang,Female,6-15,Pneumonia,1,Private Clinic,1,0,0,2022
+40,Kanke,Male,6-15,Diarrhea,1,Mobile Clinic,0,0,0,2022
+41,Riyom,Female,31-50,Diarrhea,1,Mobile Clinic,0,0,0,2020
+42,Mikang,Female,51+,Malaria,0,Mobile Clinic,1,0,0,2023
+43,Riyom,Male,51+,Cholera,1,Community Health Center,0,0,0,2022
+44,Jos South,Female,6-15,Measles,1,Private Clinic,0,0,0,2023
+45,Shendam,Female,0-5,Measles,1,Community Health Center,1,0,0,2023
+46,Jos East,Female,31-50,Malaria,1,Mobile Clinic,1,0,0,2023
+47,Riyom,Female,51+,Cholera,1,Private Clinic,1,0,0,2020
+48,Bokkos,Male,6-15,Pneumonia,1,Community Health Center,1,0,0,2021
+49,Jos South,Male,51+,Malaria,1,Community Health Center,1,0,0,2023
+50,Jos East,Female,31-50,Malaria,1,Public Hospital,0,0,0,2021
+51,Riyom,Male,31-50,Measles,1,Community Health Center,0,1,0,2021
+52,Mikang,Male,16-30,Malaria,1,Mobile Clinic,1,0,1,2022
+53,Langtang South,Male,6-15,Malaria,1,Community Health Center,1,0,0,2023
+54,Langtang North,Male,31-50,Malaria,1,Private Clinic,1,0,0,2023
+55,Mikang,Male,16-30,Measles,1,Community Health Center,0,0,1,2023
+56,Mikang,Female,16-30,Pneumonia,1,Public Hospital,1,0,0,2021
+57,Mikang,Male,51+,Pneumonia,1,Private Clinic,1,0,0,2020
+58,Langtang South,Male,51+,Malaria,0,Private Clinic,1,0,1,2021
+59,Kanam,Male,16-30,Measles,1,Public Hospital,1,0,0,2023
+60,Langtang North,Male,51+,Pneumonia,1,Mobile Clinic,1,0,0,2023
+61,Kanam,Female,31-50,Pneumonia,1,Private Clinic,1,0,0,2023
+62,Riyom,Female,0-5,Pneumonia,1,Mobile Clinic,1,0,0,2021
+63,Langtang North,Female,31-50,Measles,1,Private Clinic,0,0,0,2023
+64,Kanam,Female,16-30,Measles,1,Private Clinic,1,1,0,2022
+65,Jos North,Male,16-30,Malaria,1,Mobile Clinic,1,1,0,2023
+66,Wase,Female,31-50,Diarrhea,1,Private Clinic,0,0,0,2020
+67,Riyom,Male,51+,Pneumonia,1,Mobile Clinic,1,0,0,2022
+68,Jos North,Male,51+,Diarrhea,1,Public Hospital,1,0,0,2023
+69,Bokkos,Male,16-30,Measles,1,Mobile Clinic,0,0,0,2022
+70,Mikang,Male,6-15,Measles,1,Public Hospital,1,0,0,2023
+71,Mangu,Male,51+,Measles,1,Private Clinic,0,0,0,2020
+72,Kanke,Female,31-50,Diarrhea,0,Mobile Clinic,1,0,0,2023
+73,Mikang,Female,51+,Measles,1,Private Clinic,1,0,0,2022
+74,Barkin Ladi,Female,31-50,Malaria,0,Mobile Clinic,1,0,0,2020
+75,Barkin Ladi,Female,16-30,Measles,1,Public Hospital,1,0,0,2021
+76,Jos North,Male,51+,Cholera,0,Public Hospital,1,0,0,2020
+77,Bassa,Female,31-50,Diarrhea,0,Mobile Clinic,1,0,0,2020
+78,Jos East,Male,16-30,Cholera,1,Public Hospital,0,0,0,2020
+79,Wase,Female,6-15,Measles,1,Private Clinic,1,0,0,2022
+80,Riyom,Male,31-50,Malaria,1,Private Clinic,0,0,0,2020
+81,Wase,Male,6-15,Pneumonia,1,Community Health Center,1,0,1,2023
+82,Riyom,Female,6-15,Measles,1,Public Hospital,1,0,0,2020
+83,Mikang,Male,0-5,Malaria,1,Private Clinic,0,0,0,2020
+84,Bokkos,Male,51+,Diarrhea,1,Mobile Clinic,1,0,0,2023
+85,Jos South,Female,31-50,Cholera,1,Public Hospital,0,0,0,2023
+86,Jos North,Male,6-15,Cholera,1,Private Clinic,0,0,0,2021
+87,Langtang South,Female,0-5,Cholera,1,Public Hospital,1,0,0,2020
+88,Bassa,Female,16-30,Diarrhea,1,Mobile Clinic,0,0,0,2022
+89,Barkin Ladi,Female,31-50,Malaria,1,Private Clinic,0,0,1,2020
+90,Bokkos,Male,6-15,Diarrhea,1,Community Health Center,0,0,1,2020
+91,Mikang,Male,51+,Cholera,1,Community Health Center,1,0,0,2023
+92,Barkin Ladi,Male,0-5,Measles,1,Public Hospital,0,0,0,2021
+93,Jos North,Female,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2020
+94,Barkin Ladi,Male,51+,Diarrhea,1,Private Clinic,0,0,0,2022
+95,Bassa,Female,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2020
+96,Langtang North,Female,31-50,Malaria,1,Private Clinic,1,0,0,2022
+97,Mikang,Male,31-50,Malaria,1,Public Hospital,0,0,0,2023
+98,Barkin Ladi,Female,31-50,Diarrhea,1,Private Clinic,1,1,0,2021
+99,Jos North,Male,0-5,Cholera,1,Mobile Clinic,1,0,0,2020
+100,Bassa,Male,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2021
+101,Mikang,Male,51+,Malaria,1,Public Hospital,1,1,0,2020
+102,Wase,Male,6-15,Cholera,1,Mobile Clinic,0,1,0,2022
+103,Riyom,Male,16-30,Measles,1,Private Clinic,1,0,0,2021
+104,Langtang North,Female,51+,Malaria,0,Public Hospital,1,0,0,2020
+105,Langtang North,Female,51+,Cholera,1,Private Clinic,1,0,0,2023
+106,Jos East,Female,31-50,Cholera,1,Mobile Clinic,1,0,0,2022
+107,Kanam,Male,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+108,Wase,Male,6-15,Pneumonia,1,Private Clinic,1,0,0,2020
+109,Kanke,Male,0-5,Measles,1,Mobile Clinic,0,0,0,2021
+110,Riyom,Female,6-15,Cholera,1,Mobile Clinic,0,0,0,2020
+111,Bassa,Male,6-15,Cholera,1,Community Health Center,0,0,0,2022
+112,Wase,Female,0-5,Pneumonia,0,Mobile Clinic,1,0,0,2023
+113,Kanam,Female,51+,Malaria,1,Private Clinic,1,0,0,2022
+114,Langtang North,Male,6-15,Malaria,1,Public Hospital,1,0,0,2021
+115,Mangu,Male,0-5,Diarrhea,1,Community Health Center,1,0,0,2021
+116,Riyom,Female,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2020
+117,Kanam,Male,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2022
+118,Wase,Female,51+,Pneumonia,1,Mobile Clinic,1,0,0,2020
+119,Jos South,Male,31-50,Measles,1,Private Clinic,1,0,0,2022
+120,Jos East,Male,6-15,Cholera,1,Community Health Center,1,0,0,2021
+121,Kanam,Female,16-30,Measles,1,Private Clinic,1,0,0,2020
+122,Shendam,Male,31-50,Pneumonia,0,Community Health Center,1,0,0,2020
+123,Bokkos,Female,31-50,Cholera,1,Public Hospital,1,0,1,2022
+124,Bokkos,Male,6-15,Malaria,1,Private Clinic,1,0,0,2023
+125,Mangu,Female,0-5,Malaria,1,Private Clinic,1,0,0,2022
+126,Wase,Female,6-15,Diarrhea,0,Public Hospital,1,0,0,2023
+127,Jos North,Male,16-30,Pneumonia,1,Community Health Center,0,1,0,2022
+128,Jos North,Female,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2021
+129,Kanam,Male,6-15,Malaria,0,Public Hospital,0,0,0,2020
+130,Riyom,Male,0-5,Measles,1,Mobile Clinic,1,0,0,2022
+131,Barkin Ladi,Male,6-15,Cholera,1,Mobile Clinic,1,0,0,2021
+132,Wase,Female,51+,Measles,1,Public Hospital,1,1,0,2022
+133,Shendam,Female,0-5,Measles,1,Community Health Center,0,0,0,2020
+134,Mikang,Male,16-30,Malaria,1,Mobile Clinic,1,0,0,2022
+135,Riyom,Male,31-50,Malaria,1,Public Hospital,1,0,0,2023
+136,Bassa,Female,6-15,Malaria,1,Private Clinic,0,0,0,2020
+137,Jos North,Male,0-5,Diarrhea,1,Private Clinic,1,0,0,2023
+138,Jos East,Male,51+,Measles,0,Private Clinic,1,0,0,2021
+139,Bokkos,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+140,Langtang North,Male,51+,Cholera,1,Private Clinic,0,0,0,2022
+141,Riyom,Female,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2023
+142,Kanke,Male,31-50,Pneumonia,1,Private Clinic,1,1,0,2023
+143,Kanke,Female,16-30,Measles,1,Private Clinic,1,0,0,2020
+144,Bokkos,Male,6-15,Malaria,0,Mobile Clinic,1,0,0,2023
+145,Wase,Male,0-5,Measles,1,Private Clinic,0,0,0,2023
+146,Jos South,Female,51+,Cholera,1,Mobile Clinic,0,0,0,2020
+147,Barkin Ladi,Male,51+,Diarrhea,1,Private Clinic,0,0,0,2020
+148,Kanke,Female,0-5,Diarrhea,1,Mobile Clinic,1,0,0,2023
+149,Bassa,Male,0-5,Cholera,1,Private Clinic,0,0,0,2022
+150,Kanke,Female,6-15,Pneumonia,1,Mobile Clinic,0,0,0,2020
+151,Kanke,Female,16-30,Pneumonia,1,Public Hospital,1,0,0,2020
+152,Kanke,Female,51+,Diarrhea,1,Mobile Clinic,0,0,0,2023
+153,Jos South,Female,6-15,Diarrhea,1,Private Clinic,0,0,0,2023
+154,Jos South,Male,16-30,Malaria,1,Private Clinic,1,0,0,2020
+155,Bassa,Male,6-15,Pneumonia,1,Community Health Center,0,0,0,2023
+156,Jos North,Female,51+,Cholera,0,Mobile Clinic,1,1,0,2020
+157,Jos North,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2022
+158,Jos South,Female,0-5,Malaria,1,Mobile Clinic,1,0,0,2022
+159,Bokkos,Male,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2020
+160,Shendam,Male,31-50,Diarrhea,1,Public Hospital,1,0,0,2020
+161,Riyom,Male,16-30,Malaria,1,Mobile Clinic,1,0,0,2021
+162,Mangu,Male,31-50,Cholera,1,Public Hospital,1,0,0,2021
+163,Kanke,Female,6-15,Diarrhea,1,Public Hospital,1,0,0,2023
+164,Shendam,Female,6-15,Measles,1,Mobile Clinic,1,0,0,2023
+165,Bassa,Female,51+,Diarrhea,0,Mobile Clinic,1,0,0,2020
+166,Jos South,Male,31-50,Measles,1,Private Clinic,1,0,0,2020
+167,Shendam,Male,51+,Malaria,1,Private Clinic,0,0,0,2021
+168,Mangu,Male,0-5,Malaria,1,Community Health Center,0,0,0,2021
+169,Langtang South,Female,31-50,Diarrhea,1,Community Health Center,0,0,0,2020
+170,Langtang South,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2022
+171,Jos North,Male,0-5,Measles,1,Public Hospital,1,0,0,2022
+172,Riyom,Female,0-5,Cholera,1,Community Health Center,1,0,0,2023
+173,Shendam,Male,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2020
+174,Langtang South,Male,0-5,Cholera,1,Community Health Center,1,0,0,2020
+175,Barkin Ladi,Female,31-50,Diarrhea,1,Public Hospital,0,0,0,2023
+176,Riyom,Male,51+,Pneumonia,1,Mobile Clinic,0,0,0,2021
+177,Barkin Ladi,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+178,Wase,Male,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2022
+179,Riyom,Female,6-15,Pneumonia,1,Community Health Center,1,0,0,2020
+180,Jos North,Female,31-50,Malaria,1,Private Clinic,1,0,0,2021
+181,Mikang,Female,51+,Malaria,1,Community Health Center,0,0,0,2022
+182,Wase,Male,31-50,Measles,1,Community Health Center,1,0,0,2022
+183,Mikang,Male,16-30,Cholera,0,Private Clinic,1,0,0,2022
+184,Jos North,Female,51+,Diarrhea,1,Private Clinic,0,0,0,2021
+185,Mangu,Female,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2021
+186,Jos East,Male,16-30,Malaria,0,Mobile Clinic,1,0,0,2020
+187,Barkin Ladi,Male,31-50,Diarrhea,1,Public Hospital,1,0,0,2020
+188,Wase,Male,51+,Malaria,1,Public Hospital,1,0,0,2022
+189,Langtang South,Female,6-15,Measles,0,Community Health Center,1,0,0,2022
+190,Langtang South,Male,16-30,Cholera,1,Private Clinic,0,0,0,2021
+191,Kanke,Male,6-15,Measles,1,Public Hospital,1,0,0,2021
+192,Jos South,Female,31-50,Pneumonia,1,Community Health Center,1,0,0,2020
+193,Jos North,Male,6-15,Pneumonia,1,Private Clinic,0,0,0,2020
+194,Langtang South,Male,0-5,Pneumonia,1,Mobile Clinic,0,0,0,2023
+195,Bokkos,Male,16-30,Measles,1,Community Health Center,1,0,0,2020
+196,Bassa,Female,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2021
+197,Bassa,Female,31-50,Cholera,1,Public Hospital,0,0,0,2022
+198,Riyom,Female,31-50,Pneumonia,1,Public Hospital,1,0,0,2023
+199,Riyom,Female,6-15,Pneumonia,1,Private Clinic,1,0,0,2020
+200,Barkin Ladi,Female,31-50,Pneumonia,1,Community Health Center,0,0,0,2020
+201,Langtang South,Female,51+,Cholera,1,Mobile Clinic,0,0,0,2021
+202,Langtang South,Female,51+,Pneumonia,1,Private Clinic,1,0,0,2023
+203,Barkin Ladi,Male,51+,Cholera,1,Public Hospital,0,0,0,2020
+204,Jos North,Male,0-5,Pneumonia,1,Public Hospital,1,0,0,2022
+205,Mangu,Female,6-15,Measles,1,Community Health Center,0,0,1,2021
+206,Kanke,Male,0-5,Measles,0,Mobile Clinic,1,0,0,2023
+207,Mikang,Male,31-50,Cholera,1,Community Health Center,1,0,0,2020
+208,Riyom,Female,0-5,Measles,1,Mobile Clinic,1,0,0,2020
+209,Shendam,Male,31-50,Cholera,1,Mobile Clinic,1,0,0,2023
+210,Mikang,Male,31-50,Measles,1,Community Health Center,1,0,0,2021
+211,Barkin Ladi,Male,16-30,Measles,1,Private Clinic,1,0,1,2023
+212,Langtang South,Male,51+,Cholera,1,Community Health Center,1,0,0,2023
+213,Barkin Ladi,Male,31-50,Diarrhea,1,Community Health Center,0,0,0,2021
+214,Mikang,Female,16-30,Measles,0,Public Hospital,1,0,1,2020
+215,Jos South,Female,51+,Pneumonia,1,Public Hospital,0,0,0,2022
+216,Barkin Ladi,Female,31-50,Diarrhea,1,Community Health Center,1,0,0,2021
+217,Langtang South,Male,31-50,Cholera,1,Community Health Center,1,0,0,2022
+218,Riyom,Female,0-5,Diarrhea,1,Public Hospital,1,0,0,2020
+219,Riyom,Male,0-5,Malaria,1,Mobile Clinic,0,0,0,2023
+220,Jos North,Male,51+,Malaria,1,Community Health Center,1,1,1,2022
+221,Riyom,Male,31-50,Measles,1,Private Clinic,1,0,0,2020
+222,Jos North,Male,6-15,Measles,1,Private Clinic,1,0,0,2020
+223,Mikang,Female,0-5,Pneumonia,1,Private Clinic,1,0,0,2023
+224,Langtang South,Female,51+,Diarrhea,1,Community Health Center,0,0,0,2023
+225,Mikang,Male,31-50,Malaria,1,Mobile Clinic,1,0,0,2020
+226,Wase,Female,31-50,Measles,1,Mobile Clinic,1,0,0,2020
+227,Barkin Ladi,Male,6-15,Diarrhea,1,Public Hospital,1,0,0,2022
+228,Kanke,Female,51+,Measles,1,Community Health Center,1,0,0,2020
+229,Jos North,Female,31-50,Measles,1,Mobile Clinic,0,0,0,2020
+230,Langtang South,Male,0-5,Malaria,1,Community Health Center,0,0,0,2022
+231,Bokkos,Female,6-15,Malaria,1,Public Hospital,1,0,0,2021
+232,Mikang,Male,51+,Measles,1,Public Hospital,0,0,0,2022
+233,Shendam,Female,6-15,Cholera,1,Public Hospital,1,0,0,2022
+234,Shendam,Male,0-5,Measles,0,Private Clinic,1,0,0,2023
+235,Kanam,Male,51+,Measles,1,Community Health Center,0,0,0,2022
+236,Mikang,Female,6-15,Pneumonia,1,Public Hospital,1,0,0,2020
+237,Jos South,Female,16-30,Pneumonia,1,Community Health Center,0,1,0,2020
+238,Jos North,Male,0-5,Pneumonia,1,Private Clinic,1,0,0,2020
+239,Langtang North,Female,0-5,Cholera,1,Private Clinic,0,0,0,2021
+240,Jos North,Female,0-5,Cholera,1,Public Hospital,0,0,0,2020
+241,Bassa,Male,16-30,Measles,0,Public Hospital,1,0,0,2021
+242,Langtang South,Male,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2020
+243,Riyom,Female,31-50,Cholera,1,Community Health Center,1,0,1,2022
+244,Barkin Ladi,Male,6-15,Malaria,0,Public Hospital,1,0,0,2023
+245,Kanke,Male,31-50,Measles,1,Mobile Clinic,1,0,0,2020
+246,Kanke,Male,6-15,Diarrhea,1,Community Health Center,1,0,0,2021
+247,Bokkos,Female,16-30,Measles,0,Public Hospital,1,0,0,2021
+248,Mikang,Female,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2023
+249,Shendam,Male,31-50,Pneumonia,0,Mobile Clinic,1,0,0,2020
+250,Barkin Ladi,Female,51+,Diarrhea,1,Community Health Center,1,0,0,2022
+251,Riyom,Male,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2020
+252,Bassa,Female,6-15,Malaria,1,Community Health Center,1,0,0,2020
+253,Kanke,Male,31-50,Diarrhea,1,Community Health Center,1,1,1,2023
+254,Mikang,Male,0-5,Measles,1,Community Health Center,1,0,0,2020
+255,Barkin Ladi,Female,6-15,Pneumonia,1,Private Clinic,1,0,0,2022
+256,Jos North,Male,6-15,Measles,1,Mobile Clinic,0,0,0,2021
+257,Jos North,Female,51+,Cholera,1,Community Health Center,1,0,0,2023
+258,Barkin Ladi,Female,16-30,Pneumonia,1,Public Hospital,0,0,0,2022
+259,Jos East,Male,6-15,Diarrhea,0,Private Clinic,1,0,0,2021
+260,Barkin Ladi,Male,16-30,Pneumonia,1,Private Clinic,0,0,0,2023
+261,Mikang,Female,31-50,Measles,0,Mobile Clinic,1,0,0,2023
+262,Mikang,Male,0-5,Malaria,1,Community Health Center,0,0,0,2021
+263,Langtang North,Male,51+,Pneumonia,1,Mobile Clinic,0,0,1,2021
+264,Jos South,Male,16-30,Diarrhea,1,Private Clinic,1,0,0,2022
+265,Jos East,Male,6-15,Cholera,1,Community Health Center,1,0,0,2020
+266,Jos South,Male,16-30,Malaria,1,Public Hospital,0,0,0,2020
+267,Kanke,Female,6-15,Cholera,0,Community Health Center,1,0,0,2020
+268,Mikang,Female,16-30,Pneumonia,1,Private Clinic,1,0,0,2020
+269,Jos North,Male,6-15,Measles,1,Public Hospital,0,0,0,2020
+270,Riyom,Male,31-50,Measles,1,Community Health Center,0,0,0,2022
+271,Mangu,Male,6-15,Diarrhea,1,Public Hospital,1,0,0,2023
+272,Langtang South,Female,6-15,Measles,1,Public Hospital,1,0,0,2022
+273,Wase,Male,0-5,Malaria,1,Private Clinic,0,0,0,2022
+274,Jos East,Female,6-15,Measles,1,Public Hospital,1,0,1,2022
+275,Barkin Ladi,Female,0-5,Diarrhea,0,Mobile Clinic,1,0,0,2023
+276,Kanam,Female,51+,Pneumonia,0,Private Clinic,1,0,0,2022
+277,Wase,Male,0-5,Pneumonia,0,Mobile Clinic,1,0,0,2022
+278,Riyom,Female,31-50,Measles,1,Public Hospital,1,0,1,2023
+279,Kanam,Male,0-5,Cholera,1,Mobile Clinic,1,0,0,2022
+280,Jos North,Female,51+,Pneumonia,1,Community Health Center,1,1,0,2020
+281,Mikang,Male,31-50,Measles,1,Public Hospital,1,0,0,2021
+282,Mikang,Female,16-30,Diarrhea,1,Community Health Center,1,0,0,2022
+283,Langtang South,Male,16-30,Measles,1,Mobile Clinic,1,0,0,2021
+284,Mikang,Female,0-5,Pneumonia,1,Community Health Center,0,0,0,2022
+285,Bokkos,Male,0-5,Diarrhea,0,Public Hospital,1,0,1,2022
+286,Langtang North,Male,51+,Measles,1,Community Health Center,1,0,0,2020
+287,Jos South,Male,51+,Malaria,1,Mobile Clinic,1,0,0,2023
+288,Jos South,Male,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2021
+289,Kanke,Female,51+,Malaria,1,Mobile Clinic,1,0,0,2023
+290,Jos East,Female,6-15,Cholera,1,Public Hospital,0,0,1,2020
+291,Shendam,Male,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2020
+292,Langtang North,Female,0-5,Malaria,0,Public Hospital,1,0,0,2021
+293,Mangu,Male,31-50,Pneumonia,1,Community Health Center,0,0,0,2023
+294,Bassa,Male,51+,Pneumonia,1,Mobile Clinic,0,0,0,2020
+295,Jos North,Female,31-50,Cholera,1,Community Health Center,1,0,0,2022
+296,Mikang,Male,31-50,Diarrhea,1,Private Clinic,0,0,0,2022
+297,Bokkos,Male,31-50,Diarrhea,1,Community Health Center,0,0,0,2022
+298,Bokkos,Female,51+,Diarrhea,1,Private Clinic,1,0,0,2023
+299,Bassa,Male,31-50,Cholera,1,Community Health Center,1,0,0,2022
+300,Wase,Male,6-15,Diarrhea,1,Public Hospital,1,0,0,2022
+301,Riyom,Male,51+,Pneumonia,1,Community Health Center,1,0,0,2020
+302,Shendam,Male,31-50,Malaria,1,Public Hospital,0,0,0,2020
+303,Kanam,Female,51+,Pneumonia,1,Public Hospital,1,0,0,2022
+304,Langtang North,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2022
+305,Barkin Ladi,Female,6-15,Malaria,0,Public Hospital,1,0,0,2020
+306,Mikang,Male,31-50,Pneumonia,1,Private Clinic,1,0,0,2021
+307,Langtang South,Male,16-30,Cholera,1,Mobile Clinic,1,1,0,2023
+308,Kanam,Female,16-30,Malaria,1,Mobile Clinic,1,0,0,2023
+309,Jos East,Male,51+,Pneumonia,1,Community Health Center,1,0,0,2020
+310,Kanke,Male,16-30,Measles,1,Public Hospital,1,0,0,2023
+311,Bassa,Male,6-15,Pneumonia,1,Public Hospital,1,0,0,2020
+312,Riyom,Male,6-15,Cholera,1,Private Clinic,1,0,0,2020
+313,Bokkos,Female,0-5,Diarrhea,0,Community Health Center,1,0,0,2020
+314,Jos North,Female,6-15,Pneumonia,1,Community Health Center,1,0,1,2020
+315,Jos North,Female,16-30,Diarrhea,1,Mobile Clinic,1,0,0,2021
+316,Langtang North,Male,6-15,Measles,1,Mobile Clinic,1,0,0,2022
+317,Jos South,Female,51+,Pneumonia,1,Mobile Clinic,1,0,0,2022
+318,Langtang South,Female,0-5,Malaria,1,Private Clinic,1,0,0,2021
+319,Mikang,Male,16-30,Diarrhea,1,Private Clinic,1,0,0,2023
+320,Kanam,Male,0-5,Measles,1,Mobile Clinic,1,0,0,2023
+321,Jos North,Female,16-30,Malaria,1,Community Health Center,1,0,0,2022
+322,Langtang South,Female,51+,Malaria,1,Private Clinic,1,0,0,2023
+323,Wase,Female,0-5,Malaria,1,Community Health Center,1,0,0,2022
+324,Bassa,Female,31-50,Malaria,1,Community Health Center,1,1,0,2022
+325,Barkin Ladi,Male,16-30,Pneumonia,1,Public Hospital,1,0,0,2021
+326,Bokkos,Female,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2023
+327,Langtang South,Female,0-5,Pneumonia,1,Public Hospital,0,0,0,2021
+328,Bassa,Male,31-50,Measles,1,Mobile Clinic,1,0,0,2022
+329,Mikang,Female,31-50,Measles,0,Mobile Clinic,1,0,0,2022
+330,Bassa,Male,0-5,Measles,1,Community Health Center,1,0,0,2022
+331,Langtang North,Male,51+,Cholera,1,Mobile Clinic,1,0,0,2020
+332,Kanke,Male,31-50,Measles,1,Community Health Center,1,0,0,2020
+333,Mikang,Female,31-50,Pneumonia,1,Community Health Center,1,0,0,2020
+334,Bassa,Female,51+,Pneumonia,1,Mobile Clinic,1,0,0,2021
+335,Bokkos,Male,31-50,Cholera,1,Community Health Center,1,0,0,2022
+336,Langtang South,Female,31-50,Cholera,1,Community Health Center,1,0,0,2023
+337,Langtang South,Female,31-50,Measles,0,Community Health Center,0,0,0,2021
+338,Wase,Male,6-15,Diarrhea,1,Private Clinic,1,0,0,2021
+339,Riyom,Male,51+,Cholera,1,Community Health Center,1,0,0,2021
+340,Jos North,Female,31-50,Malaria,1,Private Clinic,1,0,0,2023
+341,Bassa,Male,51+,Pneumonia,1,Private Clinic,1,0,0,2022
+342,Jos East,Female,16-30,Malaria,1,Community Health Center,1,0,1,2020
+343,Bassa,Female,16-30,Pneumonia,1,Community Health Center,0,0,0,2022
+344,Riyom,Female,31-50,Pneumonia,1,Private Clinic,1,0,0,2022
+345,Jos South,Female,51+,Cholera,1,Private Clinic,0,0,0,2021
+346,Jos East,Male,51+,Cholera,1,Community Health Center,1,0,0,2021
+347,Jos North,Male,51+,Malaria,1,Community Health Center,1,0,0,2021
+348,Bassa,Male,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2020
+349,Kanam,Male,16-30,Malaria,1,Private Clinic,1,0,0,2020
+350,Riyom,Female,51+,Diarrhea,1,Private Clinic,0,0,0,2020
+351,Langtang South,Female,51+,Malaria,1,Mobile Clinic,0,0,0,2022
+352,Langtang South,Male,6-15,Measles,1,Private Clinic,1,0,0,2021
+353,Jos South,Female,6-15,Malaria,0,Public Hospital,0,0,0,2023
+354,Kanke,Female,51+,Measles,1,Private Clinic,1,0,0,2022
+355,Bokkos,Female,0-5,Measles,1,Mobile Clinic,0,0,0,2020
+356,Barkin Ladi,Male,51+,Measles,1,Public Hospital,1,0,0,2023
+357,Jos North,Male,51+,Diarrhea,1,Community Health Center,1,0,0,2023
+358,Jos North,Male,6-15,Malaria,1,Mobile Clinic,0,0,0,2021
+359,Mangu,Female,6-15,Malaria,1,Mobile Clinic,1,0,0,2023
+360,Bassa,Male,51+,Diarrhea,1,Community Health Center,1,0,0,2020
+361,Bokkos,Male,51+,Pneumonia,1,Mobile Clinic,0,0,0,2021
+362,Barkin Ladi,Male,51+,Cholera,1,Private Clinic,1,0,0,2023
+363,Jos North,Male,6-15,Malaria,0,Community Health Center,1,0,0,2021
+364,Jos North,Male,51+,Cholera,1,Mobile Clinic,1,0,0,2023
+365,Mikang,Male,51+,Diarrhea,1,Community Health Center,0,0,0,2022
+366,Jos East,Female,31-50,Pneumonia,1,Community Health Center,1,0,1,2022
+367,Mangu,Female,0-5,Pneumonia,1,Community Health Center,0,0,0,2020
+368,Bokkos,Male,16-30,Pneumonia,1,Public Hospital,0,0,0,2022
+369,Kanam,Male,0-5,Diarrhea,1,Mobile Clinic,1,0,1,2022
+370,Bokkos,Female,31-50,Measles,1,Public Hospital,1,0,0,2022
+371,Mikang,Female,16-30,Measles,1,Mobile Clinic,1,0,0,2023
+372,Jos South,Male,51+,Cholera,0,Private Clinic,1,0,0,2023
+373,Barkin Ladi,Male,31-50,Measles,0,Private Clinic,0,0,0,2021
+374,Kanke,Male,51+,Measles,1,Private Clinic,1,0,0,2023
+375,Mikang,Male,6-15,Pneumonia,0,Mobile Clinic,0,0,0,2022
+376,Jos East,Female,31-50,Pneumonia,0,Community Health Center,0,0,0,2023
+377,Jos South,Male,6-15,Cholera,1,Community Health Center,1,0,0,2020
+378,Riyom,Male,31-50,Malaria,1,Public Hospital,1,0,0,2021
+379,Wase,Male,31-50,Cholera,1,Public Hospital,1,1,0,2021
+380,Riyom,Male,6-15,Cholera,0,Private Clinic,0,1,0,2023
+381,Kanam,Female,16-30,Diarrhea,1,Public Hospital,1,0,0,2022
+382,Mangu,Female,0-5,Diarrhea,0,Mobile Clinic,1,0,0,2021
+383,Riyom,Female,51+,Cholera,1,Mobile Clinic,0,1,0,2020
+384,Riyom,Male,31-50,Cholera,1,Public Hospital,1,0,0,2020
+385,Jos East,Male,51+,Cholera,1,Public Hospital,0,0,0,2021
+386,Bassa,Female,6-15,Measles,1,Public Hospital,1,0,0,2022
+387,Riyom,Male,51+,Diarrhea,0,Public Hospital,1,0,0,2022
+388,Barkin Ladi,Male,6-15,Cholera,1,Private Clinic,0,0,0,2023
+389,Kanke,Female,51+,Pneumonia,1,Private Clinic,1,0,0,2023
+390,Barkin Ladi,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+391,Langtang South,Female,0-5,Measles,0,Mobile Clinic,0,0,0,2023
+392,Riyom,Female,0-5,Measles,1,Private Clinic,1,1,0,2023
+393,Kanke,Male,0-5,Malaria,1,Mobile Clinic,1,0,0,2023
+394,Wase,Male,0-5,Malaria,1,Community Health Center,0,0,0,2020
+395,Bassa,Female,0-5,Malaria,1,Mobile Clinic,1,0,0,2023
+396,Bokkos,Male,6-15,Measles,1,Public Hospital,1,0,0,2021
+397,Kanke,Female,31-50,Measles,1,Community Health Center,1,0,0,2022
+398,Kanam,Female,51+,Measles,1,Private Clinic,1,0,0,2023
+399,Barkin Ladi,Male,0-5,Pneumonia,1,Private Clinic,1,0,0,2022
+400,Riyom,Female,6-15,Measles,1,Community Health Center,1,0,0,2023
+401,Kanke,Male,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2021
+402,Kanke,Male,6-15,Malaria,1,Private Clinic,1,0,0,2020
+403,Langtang South,Male,31-50,Malaria,1,Public Hospital,1,0,0,2021
+404,Kanam,Male,51+,Malaria,1,Community Health Center,1,1,0,2020
+405,Kanke,Female,31-50,Cholera,1,Public Hospital,0,0,1,2023
+406,Riyom,Male,16-30,Cholera,1,Community Health Center,1,0,0,2023
+407,Bokkos,Female,6-15,Diarrhea,1,Private Clinic,1,1,0,2020
+408,Riyom,Female,16-30,Diarrhea,1,Mobile Clinic,0,0,1,2021
+409,Bokkos,Female,0-5,Diarrhea,1,Community Health Center,0,0,0,2021
+410,Riyom,Female,0-5,Cholera,0,Community Health Center,1,0,0,2020
+411,Wase,Male,31-50,Cholera,1,Public Hospital,1,0,0,2023
+412,Mikang,Male,51+,Diarrhea,1,Private Clinic,1,0,0,2020
+413,Langtang North,Female,16-30,Diarrhea,0,Public Hospital,1,0,0,2023
+414,Langtang South,Female,51+,Measles,1,Private Clinic,1,0,0,2020
+415,Bassa,Male,31-50,Diarrhea,1,Public Hospital,1,0,0,2023
+416,Barkin Ladi,Female,0-5,Measles,0,Community Health Center,0,0,0,2020
+417,Bokkos,Male,51+,Pneumonia,1,Public Hospital,0,0,0,2022
+418,Riyom,Female,51+,Cholera,1,Mobile Clinic,1,0,1,2023
+419,Langtang South,Male,0-5,Diarrhea,1,Private Clinic,1,0,1,2021
+420,Wase,Female,16-30,Cholera,1,Private Clinic,0,0,0,2020
+421,Kanam,Female,0-5,Cholera,1,Community Health Center,1,0,0,2021
+422,Jos East,Male,51+,Cholera,0,Private Clinic,0,0,0,2020
+423,Wase,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,1,2021
+424,Mikang,Female,16-30,Malaria,1,Public Hospital,1,0,0,2021
+425,Bassa,Male,0-5,Diarrhea,1,Community Health Center,1,0,0,2020
+426,Barkin Ladi,Female,51+,Malaria,0,Mobile Clinic,1,0,0,2020
+427,Mangu,Male,31-50,Malaria,1,Private Clinic,0,0,0,2021
+428,Mangu,Male,51+,Malaria,0,Private Clinic,1,0,0,2021
+429,Langtang North,Female,6-15,Cholera,0,Mobile Clinic,1,1,0,2021
+430,Bokkos,Female,31-50,Measles,1,Public Hospital,1,0,0,2023
+431,Riyom,Female,16-30,Cholera,1,Public Hospital,1,0,0,2023
+432,Jos East,Female,31-50,Cholera,1,Community Health Center,1,0,0,2022
+433,Bokkos,Female,16-30,Malaria,1,Private Clinic,1,0,0,2023
+434,Kanke,Female,16-30,Cholera,1,Mobile Clinic,1,0,0,2023
+435,Shendam,Female,31-50,Malaria,1,Public Hospital,0,1,0,2020
+436,Wase,Male,16-30,Measles,1,Community Health Center,0,0,0,2022
+437,Mikang,Female,16-30,Diarrhea,1,Private Clinic,1,0,0,2022
+438,Kanam,Male,6-15,Malaria,1,Private Clinic,1,1,0,2023
+439,Mikang,Female,51+,Measles,1,Community Health Center,1,0,0,2020
+440,Jos East,Female,51+,Diarrhea,0,Community Health Center,0,0,0,2020
+441,Riyom,Male,6-15,Pneumonia,1,Public Hospital,1,0,0,2022
+442,Jos South,Female,31-50,Malaria,0,Mobile Clinic,1,0,0,2020
+443,Bassa,Female,0-5,Malaria,1,Private Clinic,1,0,0,2021
+444,Bassa,Male,0-5,Pneumonia,1,Mobile Clinic,1,0,0,2023
+445,Shendam,Female,0-5,Pneumonia,0,Private Clinic,1,0,0,2021
+446,Mikang,Female,6-15,Malaria,1,Private Clinic,1,0,0,2022
+447,Langtang South,Female,6-15,Pneumonia,1,Mobile Clinic,1,1,0,2022
+448,Kanam,Male,16-30,Cholera,1,Community Health Center,1,0,0,2020
+449,Jos North,Female,0-5,Diarrhea,1,Public Hospital,1,0,0,2020
+450,Kanke,Female,31-50,Diarrhea,1,Private Clinic,1,0,0,2022
+451,Wase,Female,31-50,Diarrhea,1,Community Health Center,1,0,0,2022
+452,Kanam,Female,0-5,Cholera,1,Private Clinic,0,0,0,2021
+453,Riyom,Male,0-5,Pneumonia,1,Public Hospital,0,0,0,2021
+454,Riyom,Male,0-5,Measles,1,Private Clinic,1,0,0,2020
+455,Shendam,Female,6-15,Pneumonia,1,Public Hospital,1,0,0,2021
+456,Bokkos,Female,6-15,Malaria,1,Public Hospital,1,0,0,2020
+457,Wase,Male,6-15,Diarrhea,1,Private Clinic,0,0,0,2020
+458,Jos East,Male,51+,Pneumonia,0,Private Clinic,1,0,0,2023
+459,Wase,Female,31-50,Measles,1,Public Hospital,1,0,0,2020
+460,Barkin Ladi,Male,31-50,Malaria,1,Community Health Center,0,0,0,2021
+461,Kanam,Female,16-30,Cholera,1,Mobile Clinic,1,0,0,2022
+462,Kanam,Male,6-15,Cholera,1,Public Hospital,0,0,0,2022
+463,Mikang,Male,51+,Measles,1,Private Clinic,1,0,0,2021
+464,Riyom,Male,51+,Malaria,1,Private Clinic,1,0,0,2022
+465,Wase,Male,31-50,Diarrhea,1,Community Health Center,0,0,0,2020
+466,Jos North,Female,6-15,Pneumonia,0,Mobile Clinic,1,0,0,2022
+467,Barkin Ladi,Male,16-30,Malaria,1,Public Hospital,1,0,0,2021
+468,Kanam,Male,6-15,Cholera,1,Public Hospital,1,0,0,2022
+469,Kanke,Female,0-5,Measles,1,Mobile Clinic,0,0,0,2020
+470,Jos North,Male,6-15,Measles,1,Public Hospital,0,0,0,2020
+471,Shendam,Male,0-5,Pneumonia,1,Mobile Clinic,0,0,0,2021
+472,Shendam,Female,0-5,Measles,1,Private Clinic,1,0,0,2021
+473,Bokkos,Male,16-30,Measles,1,Mobile Clinic,1,0,1,2021
+474,Kanam,Female,31-50,Malaria,1,Public Hospital,1,0,0,2023
+475,Kanam,Female,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2023
+476,Langtang North,Female,0-5,Pneumonia,0,Community Health Center,1,0,0,2020
+477,Langtang South,Female,6-15,Malaria,1,Private Clinic,1,0,0,2023
+478,Mangu,Male,31-50,Diarrhea,0,Private Clinic,1,0,0,2023
+479,Bassa,Female,31-50,Malaria,1,Mobile Clinic,0,1,0,2022
+480,Riyom,Male,51+,Malaria,0,Public Hospital,1,0,0,2023
+481,Barkin Ladi,Male,31-50,Measles,1,Community Health Center,0,0,0,2022
+482,Langtang North,Male,16-30,Diarrhea,1,Private Clinic,0,0,0,2021
+483,Riyom,Male,0-5,Pneumonia,1,Private Clinic,1,0,0,2022
+484,Kanke,Male,51+,Pneumonia,0,Public Hospital,1,0,0,2022
+485,Mikang,Male,16-30,Diarrhea,0,Public Hospital,0,0,0,2021
+486,Langtang North,Male,6-15,Measles,0,Community Health Center,1,0,0,2021
+487,Jos North,Male,0-5,Cholera,0,Mobile Clinic,1,1,0,2020
+488,Barkin Ladi,Male,31-50,Malaria,1,Public Hospital,1,0,0,2020
+489,Langtang South,Male,0-5,Measles,1,Mobile Clinic,0,0,0,2020
+490,Mangu,Female,6-15,Diarrhea,1,Community Health Center,0,0,0,2020
+491,Bokkos,Female,51+,Malaria,0,Mobile Clinic,1,0,0,2022
+492,Jos East,Female,51+,Pneumonia,1,Private Clinic,1,0,1,2022
+493,Langtang South,Male,51+,Cholera,1,Mobile Clinic,1,0,1,2020
+494,Mikang,Female,31-50,Pneumonia,1,Community Health Center,1,0,0,2023
+495,Shendam,Female,16-30,Diarrhea,1,Community Health Center,0,0,0,2020
+496,Bokkos,Female,16-30,Malaria,1,Community Health Center,0,0,0,2023
+497,Mikang,Male,0-5,Diarrhea,0,Mobile Clinic,1,0,0,2021
+498,Riyom,Male,31-50,Malaria,1,Private Clinic,0,0,0,2022
+499,Mikang,Male,51+,Measles,1,Public Hospital,1,0,0,2022
+500,Bassa,Male,51+,Cholera,0,Private Clinic,1,0,1,2023
+501,Riyom,Female,6-15,Measles,1,Mobile Clinic,0,0,0,2020
+502,Riyom,Female,6-15,Measles,1,Mobile Clinic,0,0,0,2022
+503,Kanke,Female,51+,Diarrhea,0,Public Hospital,1,0,0,2023
+504,Riyom,Female,51+,Cholera,1,Mobile Clinic,0,0,0,2021
+505,Jos North,Male,31-50,Malaria,1,Community Health Center,0,0,0,2021
+506,Kanam,Male,16-30,Malaria,1,Community Health Center,1,0,0,2022
+507,Langtang South,Male,6-15,Pneumonia,0,Community Health Center,1,0,0,2020
+508,Kanam,Female,16-30,Malaria,1,Community Health Center,0,0,0,2023
+509,Mikang,Male,31-50,Diarrhea,1,Community Health Center,1,0,0,2022
+510,Barkin Ladi,Male,51+,Measles,1,Mobile Clinic,1,0,0,2021
+511,Shendam,Female,16-30,Measles,1,Public Hospital,1,0,0,2020
+512,Bassa,Female,51+,Measles,0,Public Hospital,1,0,0,2023
+513,Langtang North,Male,51+,Cholera,0,Community Health Center,1,0,0,2022
+514,Jos South,Male,0-5,Malaria,1,Mobile Clinic,1,0,0,2023
+515,Jos East,Male,16-30,Diarrhea,1,Private Clinic,0,0,0,2020
+516,Kanam,Male,16-30,Cholera,1,Private Clinic,0,0,0,2020
+517,Bassa,Male,51+,Pneumonia,1,Mobile Clinic,1,0,0,2021
+518,Jos North,Male,31-50,Diarrhea,1,Community Health Center,1,0,0,2020
+519,Jos North,Female,0-5,Diarrhea,1,Public Hospital,0,0,0,2022
+520,Langtang North,Female,51+,Diarrhea,1,Mobile Clinic,1,0,0,2023
+521,Kanke,Female,6-15,Measles,0,Private Clinic,1,0,0,2020
+522,Mangu,Male,6-15,Diarrhea,1,Private Clinic,1,0,0,2020
+523,Kanke,Female,0-5,Malaria,1,Private Clinic,1,0,0,2022
+524,Kanam,Male,31-50,Diarrhea,1,Community Health Center,1,0,0,2023
+525,Jos North,Male,51+,Measles,1,Private Clinic,0,1,1,2023
+526,Jos South,Female,16-30,Diarrhea,0,Mobile Clinic,0,0,0,2021
+527,Riyom,Male,0-5,Pneumonia,0,Mobile Clinic,1,0,0,2021
+528,Barkin Ladi,Male,31-50,Pneumonia,0,Private Clinic,0,0,0,2023
+529,Jos North,Female,16-30,Measles,1,Mobile Clinic,1,0,1,2022
+530,Langtang South,Female,6-15,Malaria,1,Private Clinic,1,0,0,2022
+531,Shendam,Female,6-15,Malaria,1,Private Clinic,1,0,0,2021
+532,Kanke,Male,16-30,Cholera,0,Public Hospital,0,0,0,2020
+533,Bassa,Female,0-5,Measles,1,Community Health Center,0,0,1,2022
+534,Bassa,Female,6-15,Diarrhea,1,Community Health Center,1,0,0,2020
+535,Shendam,Male,51+,Measles,1,Public Hospital,1,0,0,2022
+536,Barkin Ladi,Female,16-30,Cholera,1,Public Hospital,1,0,0,2023
+537,Bassa,Female,16-30,Measles,1,Community Health Center,1,0,0,2021
+538,Bassa,Female,6-15,Measles,1,Private Clinic,1,0,0,2020
+539,Jos East,Male,0-5,Cholera,0,Private Clinic,1,0,0,2020
+540,Jos East,Male,51+,Malaria,1,Community Health Center,0,0,0,2023
+541,Kanke,Male,0-5,Diarrhea,0,Private Clinic,0,0,0,2022
+542,Mikang,Male,31-50,Cholera,1,Public Hospital,1,0,0,2020
+543,Riyom,Female,31-50,Pneumonia,1,Private Clinic,1,0,0,2022
+544,Mikang,Male,6-15,Malaria,1,Private Clinic,1,0,0,2023
+545,Jos North,Male,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2021
+546,Kanam,Female,6-15,Malaria,1,Mobile Clinic,1,0,1,2020
+547,Kanam,Female,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2022
+548,Riyom,Female,0-5,Diarrhea,1,Private Clinic,1,0,0,2020
+549,Jos North,Male,0-5,Measles,1,Community Health Center,1,0,0,2022
+550,Kanke,Male,6-15,Pneumonia,1,Public Hospital,1,0,0,2022
+551,Mikang,Male,51+,Malaria,1,Private Clinic,1,0,0,2022
+552,Jos South,Female,0-5,Diarrhea,1,Community Health Center,1,0,0,2023
+553,Mikang,Female,31-50,Cholera,1,Private Clinic,0,0,0,2021
+554,Wase,Male,16-30,Diarrhea,1,Public Hospital,0,0,0,2020
+555,Jos South,Female,16-30,Cholera,1,Private Clinic,1,0,0,2021
+556,Barkin Ladi,Female,16-30,Malaria,1,Public Hospital,1,0,1,2022
+557,Bokkos,Female,51+,Diarrhea,0,Private Clinic,1,0,0,2022
+558,Jos North,Male,6-15,Diarrhea,1,Public Hospital,1,0,1,2021
+559,Bokkos,Female,31-50,Malaria,0,Private Clinic,1,0,1,2021
+560,Bassa,Female,51+,Diarrhea,1,Public Hospital,1,0,0,2020
+561,Kanke,Male,31-50,Cholera,1,Mobile Clinic,1,0,0,2022
+562,Langtang South,Male,31-50,Diarrhea,1,Private Clinic,1,0,0,2021
+563,Langtang North,Female,6-15,Pneumonia,1,Private Clinic,0,0,0,2023
+564,Langtang North,Female,16-30,Measles,1,Community Health Center,1,0,0,2022
+565,Bassa,Male,6-15,Cholera,1,Community Health Center,1,0,1,2022
+566,Mikang,Male,51+,Pneumonia,1,Public Hospital,1,0,0,2020
+567,Jos South,Female,51+,Malaria,1,Private Clinic,1,0,0,2023
+568,Mangu,Female,51+,Cholera,1,Public Hospital,1,0,0,2020
+569,Wase,Female,6-15,Measles,1,Mobile Clinic,0,0,0,2023
+570,Shendam,Female,31-50,Measles,1,Community Health Center,1,0,0,2020
+571,Jos South,Male,31-50,Malaria,1,Public Hospital,1,0,0,2023
+572,Shendam,Female,0-5,Malaria,1,Public Hospital,1,0,0,2023
+573,Jos South,Female,51+,Cholera,1,Community Health Center,0,0,0,2023
+574,Langtang North,Male,31-50,Diarrhea,1,Private Clinic,0,0,0,2021
+575,Jos South,Female,0-5,Malaria,1,Public Hospital,0,0,0,2022
+576,Shendam,Male,31-50,Diarrhea,1,Community Health Center,0,0,0,2023
+577,Jos North,Female,51+,Pneumonia,0,Private Clinic,0,0,0,2021
+578,Langtang North,Female,16-30,Measles,1,Mobile Clinic,1,0,0,2021
+579,Jos East,Male,51+,Diarrhea,1,Community Health Center,0,0,0,2020
+580,Kanke,Male,6-15,Measles,1,Public Hospital,0,0,0,2022
+581,Bassa,Female,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2022
+582,Riyom,Female,31-50,Pneumonia,1,Private Clinic,0,0,0,2020
+583,Jos East,Female,6-15,Malaria,1,Private Clinic,0,0,0,2022
+584,Kanke,Male,6-15,Pneumonia,1,Community Health Center,1,0,0,2020
+585,Jos East,Female,16-30,Malaria,0,Community Health Center,0,0,0,2021
+586,Kanke,Male,31-50,Malaria,1,Community Health Center,1,0,0,2021
+587,Bassa,Male,31-50,Measles,1,Private Clinic,0,0,1,2023
+588,Jos South,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2020
+589,Shendam,Male,0-5,Diarrhea,1,Private Clinic,1,0,0,2021
+590,Jos South,Female,16-30,Pneumonia,0,Public Hospital,1,0,0,2021
+591,Kanam,Female,51+,Measles,1,Private Clinic,1,0,0,2020
+592,Mangu,Female,31-50,Malaria,1,Public Hospital,1,0,1,2021
+593,Mangu,Female,6-15,Measles,1,Mobile Clinic,1,0,0,2022
+594,Langtang South,Female,51+,Cholera,1,Community Health Center,0,0,1,2021
+595,Mangu,Male,31-50,Cholera,1,Community Health Center,1,0,0,2020
+596,Langtang North,Male,16-30,Diarrhea,1,Private Clinic,1,0,0,2022
+597,Langtang South,Female,51+,Measles,1,Community Health Center,1,0,0,2022
+598,Mangu,Female,31-50,Diarrhea,1,Mobile Clinic,0,1,0,2021
+599,Langtang South,Male,0-5,Diarrhea,0,Community Health Center,1,0,0,2023
+600,Mikang,Male,0-5,Cholera,1,Private Clinic,1,0,0,2022
+601,Riyom,Male,6-15,Diarrhea,1,Mobile Clinic,0,0,0,2020
+602,Mikang,Male,31-50,Cholera,1,Public Hospital,1,0,0,2023
+603,Riyom,Female,0-5,Malaria,1,Private Clinic,0,0,0,2023
+604,Barkin Ladi,Female,16-30,Measles,1,Public Hospital,1,0,0,2022
+605,Barkin Ladi,Male,31-50,Diarrhea,1,Mobile Clinic,0,1,0,2021
+606,Bassa,Female,16-30,Cholera,1,Private Clinic,1,0,0,2023
+607,Jos East,Male,16-30,Pneumonia,1,Private Clinic,1,0,0,2021
+608,Shendam,Female,0-5,Diarrhea,1,Mobile Clinic,1,0,0,2022
+609,Jos North,Male,31-50,Malaria,1,Community Health Center,1,0,0,2020
+610,Bassa,Female,51+,Malaria,1,Private Clinic,1,0,0,2023
+611,Riyom,Male,0-5,Pneumonia,1,Private Clinic,0,0,0,2020
+612,Bokkos,Male,0-5,Cholera,0,Public Hospital,1,0,0,2021
+613,Mikang,Female,31-50,Diarrhea,1,Community Health Center,0,0,0,2021
+614,Jos South,Male,31-50,Cholera,1,Public Hospital,1,1,0,2020
+615,Kanke,Female,16-30,Malaria,1,Public Hospital,0,0,0,2022
+616,Mikang,Female,31-50,Cholera,1,Community Health Center,1,0,0,2022
+617,Kanam,Male,16-30,Malaria,1,Community Health Center,1,0,0,2023
+618,Riyom,Female,0-5,Cholera,0,Mobile Clinic,1,0,0,2023
+619,Langtang North,Female,6-15,Pneumonia,1,Community Health Center,1,0,0,2022
+620,Langtang North,Female,51+,Measles,1,Private Clinic,0,0,0,2022
+621,Mangu,Female,0-5,Pneumonia,1,Community Health Center,1,0,0,2020
+622,Langtang South,Female,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2021
+623,Kanke,Male,51+,Measles,1,Mobile Clinic,0,0,0,2021
+624,Riyom,Female,6-15,Measles,1,Mobile Clinic,1,0,0,2023
+625,Jos North,Female,6-15,Diarrhea,1,Community Health Center,1,0,0,2022
+626,Mikang,Female,16-30,Diarrhea,1,Community Health Center,1,0,1,2020
+627,Kanke,Female,51+,Pneumonia,1,Public Hospital,1,0,0,2023
+628,Barkin Ladi,Female,16-30,Pneumonia,1,Public Hospital,1,0,0,2020
+629,Langtang North,Male,0-5,Malaria,1,Private Clinic,1,0,0,2022
+630,Langtang North,Female,51+,Malaria,1,Public Hospital,0,0,0,2022
+631,Mikang,Male,0-5,Diarrhea,0,Private Clinic,1,0,0,2022
+632,Mikang,Male,16-30,Diarrhea,1,Mobile Clinic,1,0,1,2021
+633,Jos South,Male,51+,Malaria,1,Public Hospital,0,0,0,2022
+634,Kanam,Male,16-30,Malaria,1,Community Health Center,1,0,0,2023
+635,Mikang,Female,51+,Cholera,0,Public Hospital,1,0,0,2021
+636,Wase,Male,16-30,Cholera,0,Private Clinic,1,0,0,2020
+637,Barkin Ladi,Male,6-15,Malaria,1,Public Hospital,1,0,1,2023
+638,Langtang North,Female,16-30,Cholera,1,Mobile Clinic,0,0,0,2023
+639,Mikang,Female,6-15,Measles,1,Community Health Center,1,0,0,2020
+640,Mangu,Female,16-30,Diarrhea,1,Private Clinic,0,0,0,2021
+641,Langtang North,Male,51+,Diarrhea,1,Community Health Center,1,0,0,2023
+642,Kanam,Female,51+,Malaria,1,Community Health Center,1,0,0,2023
+643,Shendam,Female,51+,Pneumonia,1,Private Clinic,1,0,0,2023
+644,Barkin Ladi,Male,31-50,Malaria,1,Community Health Center,0,0,0,2021
+645,Langtang North,Female,0-5,Cholera,1,Community Health Center,1,0,0,2021
+646,Bassa,Female,51+,Pneumonia,1,Public Hospital,1,0,1,2021
+647,Jos East,Female,6-15,Cholera,1,Community Health Center,0,0,0,2023
+648,Wase,Female,51+,Measles,0,Community Health Center,1,0,0,2022
+649,Kanke,Male,31-50,Cholera,1,Community Health Center,1,1,0,2020
+650,Wase,Female,6-15,Measles,1,Community Health Center,1,0,0,2022
+651,Bokkos,Female,31-50,Measles,1,Private Clinic,0,0,0,2021
+652,Kanke,Male,6-15,Cholera,1,Mobile Clinic,0,0,0,2023
+653,Kanam,Female,16-30,Cholera,1,Public Hospital,1,0,0,2023
+654,Riyom,Male,0-5,Measles,0,Community Health Center,1,0,0,2022
+655,Jos East,Female,0-5,Pneumonia,1,Community Health Center,0,1,0,2022
+656,Barkin Ladi,Male,31-50,Measles,1,Private Clinic,0,0,0,2020
+657,Riyom,Male,0-5,Diarrhea,1,Mobile Clinic,1,0,0,2023
+658,Kanam,Male,31-50,Measles,0,Community Health Center,1,0,0,2022
+659,Langtang North,Male,31-50,Pneumonia,1,Private Clinic,0,0,0,2020
+660,Riyom,Female,31-50,Diarrhea,1,Public Hospital,1,0,1,2021
+661,Langtang North,Male,0-5,Malaria,1,Public Hospital,1,0,0,2022
+662,Jos South,Female,31-50,Malaria,1,Community Health Center,0,0,0,2021
+663,Langtang North,Male,0-5,Pneumonia,1,Community Health Center,1,0,0,2020
+664,Mikang,Male,31-50,Measles,1,Mobile Clinic,1,0,0,2021
+665,Mikang,Male,51+,Cholera,1,Mobile Clinic,1,0,0,2023
+666,Kanke,Female,31-50,Pneumonia,1,Community Health Center,1,0,1,2023
+667,Bokkos,Male,6-15,Diarrhea,1,Private Clinic,1,0,1,2021
+668,Jos East,Female,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2023
+669,Riyom,Female,16-30,Malaria,1,Community Health Center,0,0,0,2020
+670,Bassa,Female,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2023
+671,Shendam,Female,6-15,Pneumonia,1,Community Health Center,1,0,0,2021
+672,Jos South,Female,6-15,Diarrhea,1,Public Hospital,0,0,0,2021
+673,Kanam,Female,0-5,Pneumonia,0,Community Health Center,0,0,0,2021
+674,Shendam,Female,51+,Cholera,1,Public Hospital,0,0,0,2022
+675,Bassa,Female,31-50,Malaria,1,Mobile Clinic,1,0,0,2021
+676,Jos North,Female,0-5,Diarrhea,0,Community Health Center,0,0,0,2020
+677,Shendam,Male,51+,Pneumonia,1,Mobile Clinic,0,0,1,2023
+678,Shendam,Male,31-50,Measles,1,Public Hospital,1,0,0,2023
+679,Langtang South,Male,16-30,Malaria,1,Community Health Center,1,0,0,2022
+680,Riyom,Male,31-50,Cholera,1,Mobile Clinic,0,0,1,2022
+681,Mangu,Male,6-15,Pneumonia,1,Public Hospital,1,0,0,2020
+682,Riyom,Female,6-15,Cholera,0,Mobile Clinic,1,0,0,2021
+683,Barkin Ladi,Female,16-30,Cholera,0,Private Clinic,1,1,0,2022
+684,Mikang,Female,0-5,Diarrhea,1,Public Hospital,1,0,0,2023
+685,Bassa,Female,51+,Diarrhea,1,Public Hospital,0,0,0,2022
+686,Riyom,Female,31-50,Pneumonia,1,Public Hospital,1,0,0,2022
+687,Shendam,Female,6-15,Measles,1,Community Health Center,1,0,0,2021
+688,Jos South,Female,0-5,Pneumonia,1,Community Health Center,0,0,0,2022
+689,Mangu,Male,16-30,Measles,1,Community Health Center,0,0,0,2020
+690,Riyom,Male,6-15,Cholera,0,Private Clinic,1,0,0,2023
+691,Langtang North,Male,16-30,Malaria,0,Private Clinic,0,1,0,2021
+692,Shendam,Male,31-50,Pneumonia,0,Public Hospital,1,0,0,2023
+693,Kanke,Female,51+,Pneumonia,1,Private Clinic,0,0,0,2020
+694,Shendam,Female,6-15,Measles,1,Mobile Clinic,1,0,0,2020
+695,Jos South,Female,6-15,Cholera,1,Public Hospital,1,0,0,2022
+696,Langtang North,Male,31-50,Cholera,0,Public Hospital,1,0,1,2022
+697,Mangu,Female,0-5,Measles,1,Mobile Clinic,1,0,0,2022
+698,Mikang,Female,51+,Cholera,0,Public Hospital,1,0,0,2023
+699,Kanam,Female,6-15,Diarrhea,1,Private Clinic,1,0,0,2020
+700,Bokkos,Male,51+,Malaria,1,Community Health Center,1,0,0,2021
+701,Bassa,Female,6-15,Pneumonia,1,Mobile Clinic,1,0,0,2022
+702,Shendam,Male,51+,Malaria,1,Private Clinic,1,0,0,2023
+703,Riyom,Male,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2022
+704,Jos North,Male,6-15,Diarrhea,1,Mobile Clinic,1,0,0,2020
+705,Kanke,Male,51+,Cholera,1,Public Hospital,1,0,0,2021
+706,Bokkos,Female,0-5,Measles,1,Public Hospital,0,0,0,2020
+707,Langtang North,Male,16-30,Diarrhea,1,Private Clinic,1,0,0,2023
+708,Jos North,Male,16-30,Malaria,1,Mobile Clinic,1,0,0,2022
+709,Mikang,Female,0-5,Measles,1,Public Hospital,1,0,1,2020
+710,Shendam,Female,51+,Cholera,0,Public Hospital,1,0,0,2023
+711,Bassa,Male,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2022
+712,Mangu,Female,0-5,Measles,1,Private Clinic,1,0,0,2021
+713,Riyom,Male,51+,Diarrhea,1,Private Clinic,0,0,1,2020
+714,Kanam,Male,0-5,Diarrhea,1,Mobile Clinic,0,0,1,2022
+715,Mangu,Male,0-5,Cholera,1,Private Clinic,1,1,1,2022
+716,Barkin Ladi,Male,6-15,Pneumonia,1,Public Hospital,1,0,0,2022
+717,Jos North,Female,51+,Measles,0,Mobile Clinic,0,0,0,2022
+718,Shendam,Male,31-50,Cholera,1,Public Hospital,0,0,0,2020
+719,Jos East,Female,6-15,Diarrhea,0,Community Health Center,0,0,0,2022
+720,Bassa,Female,0-5,Cholera,1,Community Health Center,1,0,0,2023
+721,Jos East,Female,0-5,Pneumonia,1,Private Clinic,1,0,0,2020
+722,Bokkos,Female,0-5,Measles,0,Community Health Center,1,0,0,2022
+723,Jos South,Male,51+,Pneumonia,1,Public Hospital,1,0,0,2020
+724,Kanam,Female,51+,Malaria,1,Community Health Center,1,0,0,2023
+725,Mikang,Male,6-15,Measles,1,Public Hospital,1,0,0,2023
+726,Jos South,Female,31-50,Pneumonia,1,Private Clinic,1,0,0,2020
+727,Jos North,Female,6-15,Diarrhea,1,Private Clinic,0,0,0,2022
+728,Bassa,Male,16-30,Measles,0,Public Hospital,1,0,0,2022
+729,Riyom,Male,0-5,Measles,1,Community Health Center,1,0,0,2023
+730,Kanke,Male,0-5,Cholera,0,Private Clinic,1,0,0,2022
+731,Riyom,Female,0-5,Diarrhea,1,Mobile Clinic,0,1,0,2023
+732,Mangu,Female,6-15,Malaria,0,Private Clinic,0,0,0,2022
+733,Langtang North,Male,6-15,Pneumonia,1,Community Health Center,0,0,0,2023
+734,Shendam,Male,0-5,Cholera,1,Mobile Clinic,1,0,0,2021
+735,Barkin Ladi,Male,6-15,Pneumonia,1,Community Health Center,1,0,1,2022
+736,Kanke,Male,51+,Malaria,1,Public Hospital,0,0,0,2022
+737,Bassa,Female,51+,Malaria,1,Mobile Clinic,1,0,0,2022
+738,Bokkos,Male,6-15,Measles,1,Community Health Center,1,0,0,2020
+739,Mikang,Male,0-5,Malaria,0,Mobile Clinic,0,0,0,2022
+740,Mangu,Male,6-15,Pneumonia,1,Community Health Center,1,0,0,2020
+741,Riyom,Male,6-15,Diarrhea,1,Mobile Clinic,0,0,0,2020
+742,Jos South,Female,6-15,Diarrhea,0,Community Health Center,1,0,0,2023
+743,Bokkos,Male,16-30,Measles,0,Public Hospital,1,0,1,2020
+744,Barkin Ladi,Female,51+,Pneumonia,1,Mobile Clinic,1,0,1,2020
+745,Barkin Ladi,Male,31-50,Pneumonia,0,Mobile Clinic,0,0,0,2021
+746,Jos North,Male,31-50,Malaria,1,Mobile Clinic,1,0,0,2022
+747,Mikang,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,1,2020
+748,Mikang,Male,6-15,Cholera,1,Public Hospital,1,1,0,2022
+749,Mangu,Female,16-30,Malaria,1,Mobile Clinic,0,0,0,2020
+750,Riyom,Female,16-30,Cholera,1,Private Clinic,0,1,0,2023
+751,Bassa,Male,0-5,Measles,1,Public Hospital,0,0,0,2021
+752,Mikang,Female,51+,Diarrhea,1,Private Clinic,0,0,0,2020
+753,Barkin Ladi,Female,31-50,Measles,1,Mobile Clinic,1,0,0,2022
+754,Bassa,Female,6-15,Diarrhea,1,Community Health Center,1,0,0,2023
+755,Bassa,Female,31-50,Measles,1,Private Clinic,1,0,1,2022
+756,Mikang,Female,31-50,Pneumonia,1,Mobile Clinic,0,0,0,2023
+757,Riyom,Female,51+,Cholera,1,Private Clinic,1,0,0,2021
+758,Kanam,Female,31-50,Diarrhea,1,Mobile Clinic,0,0,0,2023
+759,Jos East,Female,31-50,Malaria,1,Mobile Clinic,1,0,0,2022
+760,Mikang,Male,16-30,Cholera,1,Mobile Clinic,1,0,0,2022
+761,Mikang,Male,51+,Malaria,0,Community Health Center,1,0,0,2020
+762,Wase,Female,0-5,Cholera,1,Private Clinic,1,0,0,2023
+763,Mikang,Male,6-15,Cholera,1,Public Hospital,0,0,0,2022
+764,Mikang,Female,31-50,Measles,0,Public Hospital,1,0,0,2020
+765,Shendam,Female,6-15,Diarrhea,0,Public Hospital,1,0,0,2021
+766,Jos North,Male,0-5,Diarrhea,0,Public Hospital,1,0,0,2022
+767,Langtang North,Female,6-15,Cholera,1,Mobile Clinic,1,0,0,2020
+768,Jos North,Female,0-5,Pneumonia,1,Private Clinic,1,0,0,2022
+769,Kanke,Female,16-30,Pneumonia,1,Private Clinic,0,0,0,2023
+770,Jos North,Female,31-50,Malaria,1,Community Health Center,1,0,0,2020
+771,Langtang North,Male,0-5,Malaria,0,Private Clinic,0,0,0,2023
+772,Jos South,Female,6-15,Measles,1,Private Clinic,1,0,1,2021
+773,Mikang,Female,31-50,Cholera,1,Private Clinic,1,0,0,2023
+774,Mikang,Female,16-30,Malaria,1,Community Health Center,0,0,0,2020
+775,Mikang,Male,31-50,Malaria,0,Public Hospital,1,0,0,2022
+776,Wase,Female,0-5,Cholera,1,Private Clinic,1,0,0,2020
+777,Shendam,Male,16-30,Measles,1,Community Health Center,1,0,0,2023
+778,Shendam,Male,6-15,Malaria,0,Community Health Center,1,0,0,2023
+779,Barkin Ladi,Female,16-30,Measles,0,Mobile Clinic,1,0,0,2022
+780,Wase,Female,16-30,Diarrhea,1,Community Health Center,1,0,0,2021
+781,Mikang,Male,51+,Measles,0,Public Hospital,1,0,0,2020
+782,Jos East,Female,16-30,Pneumonia,1,Private Clinic,1,0,0,2022
+783,Langtang North,Male,16-30,Pneumonia,1,Community Health Center,1,0,0,2022
+784,Langtang North,Male,31-50,Measles,1,Public Hospital,1,0,0,2022
+785,Jos North,Female,6-15,Pneumonia,1,Community Health Center,1,0,0,2020
+786,Wase,Female,31-50,Diarrhea,0,Community Health Center,0,0,0,2020
+787,Riyom,Male,31-50,Cholera,0,Community Health Center,0,1,0,2020
+788,Shendam,Male,0-5,Pneumonia,1,Community Health Center,0,0,0,2021
+789,Jos North,Male,31-50,Pneumonia,1,Community Health Center,1,0,0,2022
+790,Bassa,Male,51+,Measles,1,Public Hospital,1,0,0,2023
+791,Jos North,Female,51+,Diarrhea,1,Private Clinic,1,0,1,2023
+792,Riyom,Female,0-5,Cholera,1,Private Clinic,1,0,0,2022
+793,Jos South,Female,6-15,Measles,0,Private Clinic,0,0,1,2023
+794,Jos East,Female,6-15,Measles,1,Private Clinic,1,0,0,2021
+795,Bassa,Female,31-50,Diarrhea,0,Public Hospital,1,0,1,2021
+796,Jos East,Male,31-50,Cholera,1,Mobile Clinic,1,0,0,2020
+797,Jos North,Female,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2020
+798,Shendam,Female,6-15,Cholera,1,Public Hospital,1,0,0,2020
+799,Kanam,Female,16-30,Diarrhea,1,Public Hospital,1,0,0,2020
+800,Langtang North,Female,51+,Measles,1,Community Health Center,1,0,0,2020
+801,Riyom,Female,16-30,Measles,1,Community Health Center,1,0,0,2023
+802,Kanam,Male,16-30,Malaria,1,Community Health Center,1,0,0,2023
+803,Langtang North,Male,6-15,Pneumonia,1,Private Clinic,0,0,0,2020
+804,Mikang,Male,16-30,Diarrhea,1,Community Health Center,1,0,0,2021
+805,Bassa,Female,0-5,Malaria,1,Mobile Clinic,1,0,0,2023
+806,Langtang North,Male,31-50,Pneumonia,1,Private Clinic,1,1,0,2021
+807,Riyom,Male,0-5,Diarrhea,1,Community Health Center,0,0,0,2021
+808,Bokkos,Female,51+,Cholera,1,Private Clinic,1,0,0,2022
+809,Kanam,Female,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2022
+810,Jos South,Female,16-30,Measles,0,Community Health Center,0,0,1,2020
+811,Riyom,Male,51+,Malaria,1,Mobile Clinic,1,0,0,2021
+812,Riyom,Male,31-50,Pneumonia,1,Mobile Clinic,0,0,0,2023
+813,Mangu,Female,16-30,Pneumonia,1,Mobile Clinic,0,1,0,2022
+814,Bassa,Female,0-5,Measles,1,Community Health Center,0,0,0,2022
+815,Mangu,Male,31-50,Diarrhea,1,Public Hospital,0,0,0,2021
+816,Jos East,Male,16-30,Cholera,0,Community Health Center,1,0,0,2022
+817,Mikang,Female,0-5,Measles,1,Mobile Clinic,0,0,0,2022
+818,Shendam,Female,51+,Cholera,1,Community Health Center,0,0,0,2023
+819,Shendam,Male,51+,Diarrhea,1,Mobile Clinic,0,0,0,2021
+820,Mikang,Female,51+,Pneumonia,1,Public Hospital,0,0,0,2022
+821,Langtang North,Male,51+,Cholera,1,Private Clinic,0,0,0,2021
+822,Mikang,Male,6-15,Malaria,1,Public Hospital,1,0,0,2022
+823,Mangu,Male,31-50,Malaria,1,Public Hospital,0,0,0,2023
+824,Bokkos,Male,31-50,Measles,1,Private Clinic,1,0,0,2021
+825,Kanam,Female,6-15,Diarrhea,1,Community Health Center,1,0,0,2022
+826,Mikang,Female,16-30,Measles,1,Private Clinic,0,0,0,2023
+827,Jos North,Male,16-30,Measles,1,Community Health Center,1,0,0,2022
+828,Langtang North,Male,51+,Measles,1,Community Health Center,0,0,0,2021
+829,Mikang,Male,0-5,Malaria,0,Mobile Clinic,0,0,0,2022
+830,Mangu,Male,16-30,Malaria,1,Mobile Clinic,0,0,0,2021
+831,Bokkos,Male,0-5,Measles,0,Private Clinic,1,0,0,2021
+832,Bokkos,Female,31-50,Malaria,1,Public Hospital,1,0,0,2022
+833,Riyom,Female,0-5,Diarrhea,1,Private Clinic,1,0,0,2023
+834,Langtang South,Female,31-50,Measles,1,Community Health Center,1,0,0,2020
+835,Riyom,Female,6-15,Malaria,0,Mobile Clinic,1,0,0,2023
+836,Bassa,Male,6-15,Cholera,1,Private Clinic,0,0,0,2023
+837,Bassa,Male,51+,Measles,1,Private Clinic,1,0,0,2022
+838,Mikang,Male,16-30,Measles,1,Mobile Clinic,0,0,0,2023
+839,Jos East,Male,51+,Diarrhea,1,Mobile Clinic,0,0,0,2023
+840,Kanke,Male,31-50,Pneumonia,1,Mobile Clinic,0,0,0,2020
+841,Riyom,Female,51+,Pneumonia,0,Community Health Center,0,0,0,2023
+842,Mikang,Male,0-5,Diarrhea,1,Mobile Clinic,1,0,0,2020
+843,Mikang,Female,31-50,Diarrhea,1,Public Hospital,1,1,0,2022
+844,Riyom,Female,6-15,Diarrhea,1,Private Clinic,0,0,0,2020
+845,Mangu,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2021
+846,Jos North,Female,31-50,Diarrhea,0,Mobile Clinic,1,0,0,2021
+847,Mikang,Male,31-50,Malaria,1,Community Health Center,1,0,0,2020
+848,Bassa,Female,0-5,Measles,0,Community Health Center,0,0,0,2021
+849,Mikang,Female,16-30,Measles,1,Private Clinic,1,0,0,2022
+850,Riyom,Female,6-15,Cholera,1,Public Hospital,1,0,0,2021
+851,Jos North,Male,31-50,Cholera,1,Private Clinic,1,0,0,2020
+852,Mikang,Male,31-50,Measles,1,Mobile Clinic,1,0,0,2022
+853,Langtang North,Male,0-5,Malaria,1,Public Hospital,0,0,0,2021
+854,Langtang North,Female,51+,Pneumonia,0,Public Hospital,0,0,0,2022
+855,Riyom,Female,6-15,Pneumonia,1,Public Hospital,1,0,0,2020
+856,Riyom,Male,16-30,Malaria,1,Public Hospital,1,0,0,2021
+857,Jos East,Female,31-50,Pneumonia,0,Private Clinic,0,0,0,2022
+858,Riyom,Male,31-50,Diarrhea,1,Community Health Center,1,0,0,2022
+859,Barkin Ladi,Male,6-15,Measles,1,Community Health Center,1,0,0,2021
+860,Mangu,Female,51+,Measles,1,Mobile Clinic,1,1,0,2022
+861,Shendam,Female,31-50,Malaria,1,Community Health Center,1,0,0,2022
+862,Jos South,Female,6-15,Pneumonia,1,Community Health Center,1,0,0,2020
+863,Wase,Female,0-5,Cholera,1,Community Health Center,1,0,0,2020
+864,Jos South,Male,51+,Cholera,1,Community Health Center,1,0,0,2020
+865,Kanke,Male,16-30,Pneumonia,1,Mobile Clinic,0,0,0,2020
+866,Mangu,Male,31-50,Cholera,1,Private Clinic,0,0,0,2020
+867,Bokkos,Male,6-15,Malaria,1,Public Hospital,0,0,0,2020
+868,Wase,Male,0-5,Malaria,1,Community Health Center,0,0,0,2021
+869,Shendam,Female,16-30,Pneumonia,1,Private Clinic,0,0,0,2020
+870,Jos North,Male,6-15,Cholera,1,Community Health Center,0,0,0,2022
+871,Kanke,Male,6-15,Malaria,1,Community Health Center,1,0,0,2021
+872,Mangu,Male,16-30,Malaria,1,Public Hospital,0,0,0,2022
+873,Kanke,Female,0-5,Diarrhea,1,Public Hospital,1,0,0,2020
+874,Wase,Female,0-5,Diarrhea,1,Public Hospital,0,0,0,2020
+875,Kanke,Female,51+,Malaria,1,Community Health Center,1,0,0,2022
+876,Riyom,Female,31-50,Pneumonia,1,Community Health Center,1,0,0,2022
+877,Kanke,Male,16-30,Measles,0,Community Health Center,0,0,0,2022
+878,Mikang,Male,16-30,Measles,1,Public Hospital,1,0,0,2023
+879,Kanke,Female,16-30,Malaria,1,Mobile Clinic,1,0,0,2023
+880,Wase,Female,0-5,Malaria,1,Private Clinic,1,0,0,2023
+881,Jos North,Male,31-50,Malaria,1,Mobile Clinic,1,0,0,2023
+882,Kanam,Male,51+,Pneumonia,1,Community Health Center,1,0,0,2021
+883,Kanke,Female,6-15,Diarrhea,0,Community Health Center,1,0,0,2020
+884,Kanam,Female,6-15,Malaria,1,Mobile Clinic,1,0,0,2022
+885,Langtang South,Female,16-30,Malaria,1,Community Health Center,0,0,0,2020
+886,Mikang,Female,31-50,Cholera,1,Private Clinic,1,0,0,2022
+887,Jos North,Male,0-5,Pneumonia,0,Community Health Center,1,0,0,2020
+888,Mikang,Male,31-50,Malaria,0,Private Clinic,1,0,0,2021
+889,Langtang North,Male,31-50,Cholera,1,Mobile Clinic,0,0,0,2023
+890,Jos South,Female,0-5,Measles,1,Mobile Clinic,1,0,0,2020
+891,Kanke,Female,16-30,Malaria,1,Community Health Center,1,0,0,2022
+892,Shendam,Male,31-50,Malaria,1,Private Clinic,0,0,0,2020
+893,Riyom,Male,6-15,Cholera,1,Community Health Center,1,0,0,2021
+894,Jos North,Male,0-5,Pneumonia,0,Public Hospital,1,1,0,2021
+895,Mikang,Male,51+,Malaria,1,Public Hospital,1,0,0,2020
+896,Wase,Female,16-30,Measles,1,Public Hospital,1,0,1,2023
+897,Barkin Ladi,Male,0-5,Malaria,1,Public Hospital,1,0,0,2022
+898,Jos East,Male,51+,Measles,1,Community Health Center,1,0,0,2021
+899,Jos East,Male,51+,Diarrhea,1,Public Hospital,1,0,0,2021
+900,Mikang,Male,31-50,Diarrhea,1,Private Clinic,0,0,1,2020
+901,Jos South,Male,31-50,Measles,1,Mobile Clinic,0,0,0,2021
+902,Jos North,Male,31-50,Pneumonia,0,Mobile Clinic,1,1,0,2021
+903,Wase,Male,0-5,Malaria,0,Public Hospital,0,0,0,2022
+904,Mikang,Female,0-5,Malaria,1,Public Hospital,0,0,0,2023
+905,Jos North,Female,16-30,Diarrhea,0,Public Hospital,1,0,0,2022
+906,Barkin Ladi,Female,31-50,Measles,1,Community Health Center,0,0,0,2023
+907,Mikang,Female,51+,Malaria,1,Mobile Clinic,1,0,0,2022
+908,Langtang North,Male,6-15,Malaria,1,Public Hospital,0,0,0,2020
+909,Bassa,Female,16-30,Pneumonia,1,Private Clinic,1,0,0,2021
+910,Barkin Ladi,Female,0-5,Cholera,1,Public Hospital,1,0,0,2023
+911,Jos North,Male,16-30,Diarrhea,1,Mobile Clinic,0,0,0,2020
+912,Langtang North,Male,16-30,Diarrhea,1,Public Hospital,1,0,0,2021
+913,Mikang,Female,16-30,Cholera,0,Mobile Clinic,0,0,1,2021
+914,Jos South,Female,16-30,Malaria,1,Public Hospital,1,0,1,2021
+915,Barkin Ladi,Male,6-15,Pneumonia,1,Private Clinic,1,0,0,2022
+916,Mikang,Female,31-50,Pneumonia,1,Public Hospital,1,1,1,2020
+917,Mikang,Male,51+,Diarrhea,0,Private Clinic,1,0,0,2020
+918,Mangu,Male,16-30,Pneumonia,1,Private Clinic,1,0,0,2021
+919,Langtang South,Male,16-30,Cholera,1,Public Hospital,1,0,0,2023
+920,Riyom,Male,16-30,Malaria,1,Private Clinic,1,0,1,2020
+921,Bassa,Female,31-50,Cholera,1,Community Health Center,0,0,0,2022
+922,Mikang,Male,0-5,Measles,1,Public Hospital,1,0,0,2023
+923,Langtang South,Male,0-5,Diarrhea,1,Public Hospital,0,0,0,2023
+924,Wase,Female,6-15,Pneumonia,1,Private Clinic,1,0,0,2023
+925,Jos East,Male,0-5,Measles,1,Private Clinic,0,0,0,2023
+926,Wase,Female,16-30,Pneumonia,1,Public Hospital,1,0,0,2020
+927,Jos North,Female,16-30,Malaria,0,Community Health Center,0,0,0,2021
+928,Langtang South,Female,16-30,Malaria,0,Private Clinic,0,0,0,2023
+929,Riyom,Male,6-15,Malaria,1,Private Clinic,1,0,0,2022
+930,Jos South,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2022
+931,Jos North,Female,0-5,Measles,1,Community Health Center,1,0,0,2021
+932,Langtang North,Male,31-50,Malaria,0,Community Health Center,0,0,0,2020
+933,Bassa,Female,31-50,Measles,1,Public Hospital,0,0,0,2021
+934,Mangu,Female,51+,Pneumonia,0,Community Health Center,1,0,0,2023
+935,Jos East,Female,0-5,Measles,0,Public Hospital,1,0,0,2020
+936,Jos South,Female,16-30,Pneumonia,1,Mobile Clinic,0,0,0,2020
+937,Barkin Ladi,Female,31-50,Pneumonia,0,Community Health Center,1,0,0,2023
+938,Bokkos,Male,0-5,Diarrhea,1,Private Clinic,1,0,0,2022
+939,Bassa,Female,31-50,Pneumonia,1,Mobile Clinic,1,0,0,2023
+940,Bassa,Female,16-30,Pneumonia,1,Public Hospital,1,1,0,2021
+941,Shendam,Male,31-50,Cholera,0,Mobile Clinic,1,0,0,2023
+942,Riyom,Male,51+,Malaria,0,Public Hospital,0,0,0,2022
+943,Jos South,Male,51+,Diarrhea,0,Mobile Clinic,0,0,0,2023
+944,Bokkos,Female,31-50,Diarrhea,0,Public Hospital,1,0,1,2021
+945,Barkin Ladi,Male,0-5,Diarrhea,1,Community Health Center,1,0,0,2021
+946,Bokkos,Female,0-5,Cholera,1,Private Clinic,1,0,1,2022
+947,Kanke,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+948,Jos East,Male,31-50,Malaria,1,Mobile Clinic,1,0,0,2021
+949,Mikang,Male,0-5,Measles,1,Public Hospital,1,0,0,2023
+950,Kanke,Female,16-30,Pneumonia,1,Public Hospital,0,0,0,2020
+951,Kanke,Male,51+,Cholera,1,Public Hospital,0,0,0,2021
+952,Mikang,Female,16-30,Pneumonia,1,Mobile Clinic,1,0,0,2021
+953,Riyom,Male,0-5,Pneumonia,1,Private Clinic,1,0,0,2022
+954,Mikang,Male,16-30,Cholera,1,Community Health Center,0,0,0,2022
+955,Jos South,Male,0-5,Diarrhea,1,Private Clinic,1,0,1,2023
+956,Kanam,Female,31-50,Diarrhea,1,Public Hospital,1,1,0,2023
+957,Wase,Male,16-30,Malaria,1,Mobile Clinic,1,0,0,2021
+958,Riyom,Female,31-50,Malaria,1,Private Clinic,0,1,1,2020
+959,Mangu,Female,31-50,Diarrhea,1,Public Hospital,1,0,0,2020
+960,Mikang,Female,6-15,Measles,1,Community Health Center,0,0,0,2023
+961,Riyom,Female,0-5,Pneumonia,1,Community Health Center,1,0,0,2022
+962,Kanam,Male,51+,Measles,1,Community Health Center,0,0,0,2021
+963,Jos South,Female,0-5,Pneumonia,1,Public Hospital,1,0,0,2021
+964,Bassa,Female,51+,Diarrhea,0,Mobile Clinic,0,0,0,2020
+965,Mangu,Male,0-5,Malaria,0,Private Clinic,1,0,0,2023
+966,Shendam,Female,31-50,Malaria,1,Community Health Center,1,0,0,2020
+967,Jos East,Male,16-30,Measles,1,Public Hospital,0,0,0,2020
+968,Riyom,Female,16-30,Malaria,1,Public Hospital,1,0,0,2023
+969,Riyom,Male,6-15,Diarrhea,1,Private Clinic,0,0,1,2022
+970,Shendam,Female,51+,Measles,1,Community Health Center,1,0,0,2021
+971,Jos South,Male,51+,Pneumonia,1,Public Hospital,1,0,0,2022
+972,Kanke,Female,51+,Malaria,1,Private Clinic,1,0,0,2023
+973,Bassa,Female,31-50,Cholera,1,Mobile Clinic,1,0,0,2023
+974,Shendam,Male,51+,Malaria,1,Mobile Clinic,1,0,0,2021
+975,Bokkos,Male,16-30,Pneumonia,0,Mobile Clinic,1,0,0,2022
+976,Jos East,Male,31-50,Measles,0,Community Health Center,0,0,0,2021
+977,Shendam,Male,0-5,Pneumonia,1,Private Clinic,1,0,0,2020
+978,Mikang,Female,51+,Cholera,1,Private Clinic,1,0,0,2020
+979,Jos South,Female,51+,Diarrhea,1,Public Hospital,0,1,1,2020
+980,Bokkos,Male,0-5,Malaria,0,Public Hospital,1,0,1,2022
+981,Kanam,Female,51+,Measles,1,Public Hospital,0,0,0,2020
+982,Wase,Male,0-5,Diarrhea,0,Private Clinic,1,0,0,2021
+983,Jos East,Male,31-50,Pneumonia,0,Public Hospital,0,0,0,2022
+984,Kanam,Female,16-30,Measles,1,Private Clinic,1,0,0,2021
+985,Kanke,Female,0-5,Diarrhea,1,Private Clinic,1,0,0,2023
+986,Mikang,Female,6-15,Measles,0,Mobile Clinic,0,0,0,2022
+987,Jos South,Female,0-5,Cholera,0,Public Hospital,0,0,0,2021
+988,Mangu,Female,51+,Cholera,1,Mobile Clinic,1,0,0,2021
+989,Jos North,Female,31-50,Malaria,0,Community Health Center,1,0,0,2022
+990,Riyom,Female,31-50,Malaria,1,Community Health Center,0,0,0,2023
+991,Mangu,Male,0-5,Cholera,1,Community Health Center,0,0,0,2022
+992,Mikang,Male,16-30,Measles,0,Private Clinic,1,0,0,2020
+993,Mangu,Male,6-15,Cholera,0,Private Clinic,1,0,0,2020
+994,Riyom,Male,31-50,Malaria,1,Private Clinic,1,0,0,2023
+995,Kanke,Male,51+,Cholera,1,Public Hospital,1,0,0,2021
+996,Wase,Female,51+,Cholera,1,Mobile Clinic,0,0,0,2021
+997,Mikang,Male,16-30,Measles,1,Private Clinic,1,1,0,2021
+998,Barkin Ladi,Male,31-50,Diarrhea,1,Mobile Clinic,1,0,0,2022
+999,Jos South,Male,0-5,Malaria,1,Mobile Clinic,0,0,0,2022
+1000,Langtang North,Male,51+,Measles,1,Mobile Clinic,1,0,0,2023
