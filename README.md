@@ -19,6 +19,7 @@
   - 2021 had the fewest visits, followed by 2023.  
   - 2022 saw a slight increase, while 2020 recorded the highest visits, with only a 3-visit difference from 2022.
 
+# ![1](https://github.com/user-attachments/assets/25fc3aaf-b4f0-4338-8117-ac9cfd825f9d)
 ---
 
 ## Disease Distribution and Demographics
@@ -35,6 +36,7 @@
 
 - **Slicer for Disease Filtering:** There is a slicer tool that allows filtering by specific diseases for more detailed analysis.
 
+# ![2](https://github.com/user-attachments/assets/146dfd40-4b49-40a4-8f6b-cd57e37a96a6)
 ---
 
 ## Mortality Rates and Facility Utilization
@@ -48,6 +50,7 @@
 
 - **Slicer for Disease Filtering:** There is also a slicer to filter the data by specific diseases for a deeper analysis of mortality trends.
 
+# ![3](https://github.com/user-attachments/assets/31edbdf9-946b-47f0-ba4b-f6decfcadf88)
 ---
 
 ## Immunization Data
@@ -60,6 +63,7 @@
 
 - **Immunization by LGA:** A table lists the percentage of people immunized in each LGA, with Kanam showing the highest immunization rate, and Mangu and Jos East having the lowest.
 
+# ![4](https://github.com/user-attachments/assets/5cd6f8c7-231b-45ff-b6ef-83bea6988bed)
 ---
 
 ## Disease Reporting and LGA Analysis
@@ -72,6 +76,7 @@
 
 - **Rate of Disease per LGA:** A column chart displays the rate of diseases recorded in each LGA, with Mikang recording the most diseases and Langtang South the least.
 
+# ![5](https://github.com/user-attachments/assets/0ec7fa84-9d2a-42ef-afe3-ab7ba52c8c74) 
 ---
 
 ## Yearly Trends and Disease Patterns
@@ -84,6 +89,11 @@
 - **Child and Maternal Mortality Rates by Year:** A line graph illustrates the trends in child and maternal mortality rates for each year.  
 - **Yearly Disease Trend:** An area graph displays the overall trend in disease cases across the years.
 
+# ![6](https://github.com/user-attachments/assets/051f79c0-24ff-49fb-a56e-2798c8816b53)
+
 ---
+
+
+
 
 
