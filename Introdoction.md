@@ -35,4 +35,7 @@ To explore the project, download the Power BI report file (.pbix) and open it us
 ## Conclusion
 This project demonstrates how Power BI can transform complex healthcare data into actionable insights. By visualizing trends, patterns, and potential issues, healthcare professionals and administrators can make more informed decisions that enhance patient care and improve operational efficiency.
 
+##![Plateau State Dashboard](https://github.com/user-attachments/assets/631693d2-789f-43cc-ac59-b004f2d48335)
+
+
 ---
